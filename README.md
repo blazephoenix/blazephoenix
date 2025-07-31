@@ -1,3 +1,5 @@
-### Hi there 👋
+Regrets, I've had a few
+But then again, too few to mention
 
-[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/USERNAME)
+I did what I had to do
+And saw it through, without exemption
