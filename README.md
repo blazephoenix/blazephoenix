@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://blazephoenix.github.io">Website</a> •
   <a href="https://github.com/blazephoenix?tab=repositories">Repos</a> •
-  <a href="https://linkedin.com/in/tanmaynaik">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/naiktanmay283/">LinkedIn</a>
 </p>
 
 ---
