@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F76B15&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Tanmay+%F0%9F%91%8B;Building+things+and+occasionally+finishing+them" alt="Typing SVG" />
 </h1>
 
