@@ -19,7 +19,7 @@
 
 Tech firestarter. Builder of things that probably didn't need to exist but are better because they do. I start companies, ship tools, and debate architecture decisions with the passion of a philosopher who accidentally learned to code.
 
-Currently building at **Konfirmity** | Previously broke and fixed things at various startups.
+Currently building at **Konfirmity** | Previously broke and fixed things building various startups.
 
 > *"The best way to have a good idea is to have a lot of ideas and throw away the bad ones."* — Linus Pauling
 >
@@ -43,9 +43,8 @@ Currently building at **Konfirmity** | Previously broke and fixed things at vari
 blazephoenix@github
 -----------------------
 Languages:    Python, TypeScript, JavaScript
-Frameworks:   React, Svelte, Flask, Next.js
-Current Mood: Starting a new project instead
-               of finishing the last three
+Frameworks:   React, Svelte, Flask, Next.js, Fastify, FastApi
+Current Mood: Starting a new project instead of finishing the last three
 Superpower:   Turning caffeine into commits
 Alignment:    Chaotic Good
 ```
