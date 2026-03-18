@@ -17,7 +17,7 @@
 
 ### `$ whoami`
 
-Tech firestarter. Builder of things that probably didn't need to exist but are better because they do. I start companies, ship tools, and debate architecture decisions with the passion of a philosopher who accidentally learned to code.
+Serial builder. Builder of things that probably didn't need to exist but are better because they do. I start companies, ship tools, and debate architecture decisions with the passion of a philosopher who accidentally learned to code.
 
 Currently building at **Konfirmity** | Previously broke and fixed things building various startups.
 
